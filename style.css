@@ -175,6 +175,10 @@ body {
 }
 
 @media(max-width:400px){
+    
+   .container {
+    padding: 16px 22px;
+       }
 .weather-box .humidity {
         background:none;
         padding: 0px;
